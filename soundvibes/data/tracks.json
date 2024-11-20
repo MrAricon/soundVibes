@@ -1,0 +1,112 @@
+{
+  "tracks": [
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "src": "assets/music/Happy.mp3",
+      "img": "assets/images/Happy.jpg"
+    },
+    {
+      "title": "Walking On Sunshine",
+      "artist": "Katrina and the Waves",
+      "src": "assets/music/Walking On Sunshine.mp3",
+      "img": "assets/images/Walking On Sunshine.jpg"
+    },
+    {
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "src": "assets/music/Can't Stop The Feeling!.mp3",
+      "img": "assets/images/Can't Stop The Feeling!.jpg"
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "src": "assets/music/Someone Like You.mp3",
+      "img": "assets/images/Someone Like You.jpg"
+    },
+    {
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "src": "assets/music/Fix You.mp3",
+      "img": "assets/images/Fix You.jpg"
+    },
+    {
+      "title": "The Night We Met",
+      "artist": "Lord Huron",
+      "src": "assets/music/The Night We Met.mp3",
+      "img": "assets/images/The Night We Met.jpg"
+    },
+    {
+      "title": "Eye Of The Tiger",
+      "artist": "Survivor",
+      "src": "assets/music/Eye Of The Tiger.mp3",
+      "img": "assets/images/Eye Of The Tiger.jpg"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "src": "assets/music/Don't Stop Me Now.mp3",
+      "img": "assets/images/Don't Stop Me Now.jpg"
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "src": "assets/music/Lose Yourself.mp3",
+      "img": "assets/images/Lose Yourself.jpg"
+    },
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "src": "assets/music/Weightless.mp3",
+      "img": "assets/images/Weightless.jpg"
+    },
+    {
+      "title": "Banana Pancakes",
+      "artist": "Jack Johnson",
+      "src": "assets/music/Banana Pancakes.mp3",
+      "img": "assets/images/Banana Pancakes.jpg"
+    },
+    {
+      "title": "Sunset Lover",
+      "artist": "Petit Biscuit",
+      "src": "assets/music/Sunset Lover.mp3",
+      "img": "assets/images/Sunset Lover.jpg"
+    },
+    {
+      "title": "Rise Up",
+      "artist": "Andra Day",
+      "src": "assets/music/Rise Up.mp3",
+      "img": "assets/images/Rise Up.jpg"
+    },
+    {
+      "title": "Beautiful Day",
+      "artist": "U2",
+      "src": "assets/music/Beautiful Day.mp3",
+      "img": "assets/images/Beautiful Day.jpg"
+    },
+    {
+      "title": "Hall of Fame",
+      "artist": "The Script ft. will.i.am",
+      "src": "assets/music/Hall of Fame.mp3",
+      "img": "assets/images/Hall of Fame.jpg"
+    },
+    {
+      "title": "Under Pressure",
+      "artist": "Queen & David Bowie",
+      "src": "assets/music/Under Pressure.mp3",
+      "img": "assets/images/Under Pressure.jpg"
+    },
+    {
+      "title": "Breathin",
+      "artist": "Ariana Grande",
+      "src": "assets/music/Breathin.mp3",
+      "img": "assets/images/Breathin.jpg"
+    },
+    {
+      "title": "Everybody Hurts",
+      "artist": "R.E.M.",
+      "src": "assets/music/Everybody Hurts.mp3",
+      "img": "assets/images/Everybody Hurts.jpg"
+    }
+  ]
+}

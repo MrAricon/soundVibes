@@ -1,0 +1,8 @@
+{
+    "happy": ["Happy", "Walking on Sunshine", "Can't Stop the Feeling!"],
+    "sad": ["Someone Like You", "Fix You", "The Night We Met"],
+    "energetic": ["Eye of the Tiger", "Don't Stop Me Now", "Lose Yourself"],
+    "relaxed": ["Weightless", "Banana Pancakes", "Sunset Lover"],
+    "inspired": ["Rise Up", "Beautiful Day", "Hall of Fame"],
+    "stressed": ["Under Pressure", "Breathin", "Everybody Hurts"]
+}

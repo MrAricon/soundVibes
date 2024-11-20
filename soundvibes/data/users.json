@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@example.com",
+        "password": "$2y$10$xR\/4Ljg1gXkEm\/\/MUMPQ.eZ0bt.IkEk2sdKb22XzyydRDeHc7llwS",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "username": "pau",
+        "email": "paucm013@example.com",
+        "password": "$2y$10$AcqLflzRmd\/.Q\/YCftkt7OVgSVf8bAZPJdizTqe8S0he57xyAgtde",
+        "role": "user"
+    }
+]

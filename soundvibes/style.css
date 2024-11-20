@@ -1,0 +1,108 @@
+:root {
+    --primary-color: #333; /* Color principal para el fondo de la barra de navegación */
+    --accent-color: #ff6600; /* Color de acento para botones y enlaces */
+    --text-color: #ffffff; /* Color del texto */
+    --background-color: #f4f4f4; /* Fondo general */
+    --footer-background-color: #222; /* Fondo del footer */
+    --footer-text-color: #ccc; /* Color del texto en el footer */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+}
+
+.view {
+    margin: 10px;
+}
+
+header nav {
+    background-color: var(--primary-color);
+    padding: 15px;
+    color: var(--text-color);
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul li {
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: var(--text-color);
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+header nav ul li a:hover {
+    background-color: var(--accent-color);
+}
+
+button {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff8533;
+}
+
+form {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form input, form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form input[type="password"], form input[type="email"], form input[type="text"] {
+    max-width: 400px;
+    display: inline-block;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--footer-background-color);
+    color: var(--footer-text-color);
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+footer a {
+    color: var(--footer-text-color);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: var(--accent-color);
+}
+
+.main-content {
+    min-height: 100vh;
+    padding-bottom: 50px;
+}
+
